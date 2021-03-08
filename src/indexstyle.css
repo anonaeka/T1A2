@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    background-color: gold;
+    height: auto;
+    align-items: center;
+}
+
+nav ul li {
+    list-style: none;
+    padding: 8px 12px;
+    background-color: green;
+    color: white;
+    height: 100%;
+    line-height: 50px;
+    
+}
+
+li:hover {
+    color: green;
+    background-color: pink;
+}
