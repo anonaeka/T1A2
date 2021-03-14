@@ -45,7 +45,7 @@ This sitemap first conducted by a hand sketch then going to use Balsamiq Wirefra
 
 ### 3.2.1 Desktop
 
-<img src="docs/desktop.png" style="zoom:100%;" />
+<img src="docs/Pcgo.png" style="zoom:100%;" />
 
 ### 3.2.2 Tablet 
 
@@ -59,7 +59,7 @@ This sitemap first conducted by a hand sketch then going to use Balsamiq Wirefra
 
 ### Home [Desktop]
 
-<img src="docs/indexpage.jpg" style="zoom:100%;" />
+<img src="docs/01go.jpg" style="zoom:100%;" />
 
 ### Portfolio & Blog [Mobile]
 
