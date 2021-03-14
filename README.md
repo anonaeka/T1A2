@@ -59,7 +59,7 @@ This sitemap first conducted by a hand sketch then going to use Balsamiq Wirefra
 
 ### Home [Desktop]
 
-<img src="docs/01go.jpg" style="zoom:100%;" />
+<img src="docs/portgo.jpg" style="zoom:100%;" />
 
 ### Portfolio & Blog [Mobile]
 
