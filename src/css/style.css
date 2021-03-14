@@ -7,6 +7,8 @@
     box-sizing: border-box;
 }
 
+/* Control UI */
+
 body {
     display: flex;
     flex-direction: column;
@@ -25,12 +27,15 @@ body {
     font-family: 'Bebas Neue', cursive;
     font-size: 130%;
     display: flex;
+    
   }
 
  ul li:hover {
     text-decoration: underline;
     color: darkblue;
  }
+
+/* Body&Footer */
 
   main {
     flex-grow: 1;
@@ -63,7 +68,18 @@ footer {
      width: 30px;
      height: 30px;
      margin: 5px;
+     transition: width 0.5s, height 0.5s;
  }
+
+ footer img:hover {
+  width: 35px;
+  height: 35px;
+  margin: 5px;
+}
+
+
+
+
  /* unvisited link */
 a:link {
     color:black;

@@ -1,3 +1,5 @@
+/* Desktop */
+
 body {
     padding: 0px;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
@@ -67,6 +69,7 @@ input[type=submit]:hover {
 }
 
 
+/* Mobile */
 
 @media screen and (max-width: 678px) {
 

@@ -1,4 +1,4 @@
-
+/* Desktop */
 
 body {
     padding: 0px;
@@ -58,6 +58,8 @@ p {
   background-color: blue;
 }
 
+
+/* Mobile */
 
 
 @media screen and (max-width: 678px) {

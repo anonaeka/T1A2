@@ -4,6 +4,8 @@
     box-sizing: border-box;
     
   }
+
+/* Desktop */
   
 body {
     padding: 0px;
@@ -68,7 +70,7 @@ footer {
 }
 
 
-
+/* Mobile */
 
 @media screen and (max-width: 678px) {
     .row {

@@ -1,8 +1,10 @@
-/* Portfolio */
+/* Blog */
 
 * {
     box-sizing: border-box;
   }
+
+/* Desktop */
 
 body {
     padding: 0px;
@@ -57,6 +59,8 @@ p {
   margin-bottom: 10px;
   text-align: justify;
 }
+
+/* Mobile */
 
 
 @media screen and (max-width: 678px) {
