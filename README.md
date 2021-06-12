@@ -2,7 +2,7 @@
 
 ## Links
 
-[Portfolio](https://anonportfolio.netlify.app/)
+[Portfolio](https://anonaeka.github.io/)
 
 [GitHub](https://github.com/anonaeka/T1A2)
 
